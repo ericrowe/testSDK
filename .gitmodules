@@ -1,6 +1,3 @@
-[submodule "Sources/SDK/testCore"]
-	path = SDKA/Sources/SDK/testCore
-	url = https://github.com/ericrowe/testCore
 [submodule "SDKB/Sources/SDKB/testCore"]
 	path = SDKB/Sources/SDKB/testCore
 	url = https://github.com/ericrowe/testCore
