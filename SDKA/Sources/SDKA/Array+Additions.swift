@@ -11,5 +11,5 @@ public extension Array {
 }
 
 public class AccessValueEnum {
-//    var valueEnum: ValueEnum?
+    var valueEnum: ValueEnum?
 }
